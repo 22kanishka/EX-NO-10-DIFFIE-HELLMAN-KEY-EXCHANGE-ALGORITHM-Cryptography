@@ -1,5 +1,6 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
-
+## NAME: KANISHKA P
+## REG NO: 2305001011
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
 
